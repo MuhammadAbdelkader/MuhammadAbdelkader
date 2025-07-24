@@ -1,16 +1,129 @@
-## Hi there 👋
+<p align="center">
+  <img src="mohamed.png" alt="mohamed profile" width="180" height="180" style="border-radius: 50%;" />
+</p>
 
-<!--
-**MuhammadAbdelkader/MuhammadAbdelkader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">As-salamu alaykum there 👋, I'm Muhammad Abdelkader</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Computer and AI Student | 💻 Full Stack Developer in Progress | 🇪🇬 Egypt  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:moha7med.abdelkader@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadabdelkader/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201020750519">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 👨‍🎓 4th Year Student, Information Systems Dept.  
+  Faculty of Computers & Artificial Intelligence – Benha University  
+- 🧪 Trainee in NTI’s Full MEAN Stack Internship (180h technical + 30h freelancing coaching)  
+- 🔧 Building backend projects: JWT Auth API, File Upload, CRUD APIs  
+- 📊 Learning MongoDB performance tuning, Node.js Streams, and scalable API design  
+- 🎯 Goal: Become a professional backend developer and data analyst
+
+📫 How to reach me:
+
+- 📧 Email: [moha7med.abdelkader@gmail.com](mailto:moha7med.abdelkader@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/muhammadabdelkader](https://www.linkedin.com/in/muhammadabdelkader/)
+- 💬 WhatsApp: [+20 102 075 0519](https://wa.me/201020750519)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
+</p>
+
+### 🛠 Backend & DB
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
+
+### 🔧 Tools & IDEs
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="NPM"/>
+</p>
+
+---
+
+## 🧠 Theoretical Skills
+
+- 📚 Data Structures & Algorithms (in C++)
+- 📊 Object-Oriented Programming (OOP)
+- 🧵 Operating Systems (OS1, OS2)
+- 💾 File Management Systems
+- 🧮 Logical & Digital Design
+- 🖥️ Computer Architecture
+- 🌐 Intro to Networks
+- 💡 Software Engineering 1 & 2
+- 🧠 Problem Solving & Competitive Programming
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelkader&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelkader&layout=compact&theme=radical" alt="languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdelkader&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdelkader&theme=dracula" alt="trophy"/>
+</p>
+
+---
+
+<p align="center">🔥 Let’s build something amazing!</p>
+
+
+
