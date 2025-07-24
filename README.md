@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="mohamed.jpg" alt="mohamed profile" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+  <img src="mohamed.png" alt="Profile Photo" width="160" height="160" style="border-radius: 50%;">
 </p>
+
 
 <h1 align="center">As-salamu alaykum there 👋, I'm Muhammad Abdelkader</h1>
 
