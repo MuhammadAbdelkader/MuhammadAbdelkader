@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mohamed.png" alt="mohamed profile" width="180" height="180" style="border-radius: 50%;" />
+  <img src="mohamed.jpg" alt="mohamed profile" width="180" height="180" />
 </p>
 
 <h1 align="center">As-salamu alaykum there 👋, I'm Muhammad Abdelkader</h1>
@@ -31,12 +31,6 @@
 - 📊 Learning MongoDB performance tuning, Node.js Streams, and scalable API design  
 - 🎯 Goal: Become a professional backend developer and data analyst
 
-📫 How to reach me:
-
-- 📧 Email: [moha7med.abdelkader@gmail.com](mailto:moha7med.abdelkader@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/muhammadabdelkader](https://www.linkedin.com/in/muhammadabdelkader/)
-- 💬 WhatsApp: [+20 102 075 0519](https://wa.me/201020750519)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -49,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 </p>
 
 ### 🌐 Frontend
@@ -107,14 +100,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdelkader&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophy
 
 <p align="center">
@@ -124,6 +109,3 @@
 ---
 
 <p align="center">🔥 Let’s build something amazing!</p>
-
-
-
