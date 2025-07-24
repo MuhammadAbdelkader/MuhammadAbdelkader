@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mohamed.jpg" alt="mohamed profile" width="180" height="180" />
+  <img src="mohamed.jpg" alt="mohamed profile" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <h1 align="center">As-salamu alaykum there 👋, I'm Muhammad Abdelkader</h1>
@@ -91,11 +91,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelkader&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdelkader&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelkader&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdelkader&layout=compact&theme=radical" alt="languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbdelkader&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -103,7 +111,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdelkader&theme=dracula" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdelkader&theme=dracula" alt="trophy"/>
 </p>
 
 ---
