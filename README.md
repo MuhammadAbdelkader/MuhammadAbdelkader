@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="mohamed.jpg" alt="Profile Photo" width="419" height="473" style="border-radius: 50%;">
+  <img src="mohamed.jpg" alt="Profile Photo" width="300" height="300" style="max-width: 100%; height: auto; max-height: 300px;">
 </p>
 
 
-<h1 align="center">As-salamu alaykum there 👋, I'm Muhammad Abdelkader</h1>
+<h1 align="center">As-salamu alaykum, I'm Muhammad Abdelkader</h1>
 
 <p align="center">
   🎓 Computer and AI Student | 💻 Full Stack Developer in Progress | 🇪🇬 Egypt  
