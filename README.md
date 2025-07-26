@@ -25,7 +25,8 @@
 
 ## 🚀 About Me
 
-🎓 **Information Systems Senior @ Benha University**  
+🎓 **Final-Year Student** – Information Systems Department  
+  Faculty of Computers & Artificial Intelligence, Benha University  
 
 💻 **Backend Developer | MEAN Stack Focused**  
 
