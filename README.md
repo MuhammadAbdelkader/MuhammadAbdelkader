@@ -25,12 +25,18 @@
 
 ## 🚀 About Me
 
-- 👨‍🎓 4th Year Student, Information Systems Dept.  
-  Faculty of Computers & Artificial Intelligence – Benha University  
-- 🧪 Trainee in NTI’s Full MEAN Stack Internship (180h technical + 30h freelancing coaching)  
-- 🔧 Building backend projects: JWT Auth API, File Upload, CRUD APIs  
-- 📊 Learning MongoDB performance tuning, Node.js Streams, and scalable API design  
-- 🎯 Goal: Become a professional backend developer and data analyst
+🎓 **Information Systems Senior @ Benha University**  
+
+💻 **Backend Developer | MEAN Stack Focused**  
+
+💼 **Currently Training @ NTI (National Telecommunication Institute)**  
+Full MEAN Stack Internship – 180h Technical Training + 30h Freelancing & Career Coaching
+
+📚 **Currently Strengthening Expertise In:**  
+Advanced MongoDB Indexing & Performance Tuning · Node.js Streams & Data Handling · Scalable & Modular API Architecture
+
+🎯 **Goal:**  
+To become a high-impact backend engineer, delivering robust and maintainable solutions using modern JavaScript technologies
 
 ---
 
@@ -76,17 +82,38 @@
 
 ---
 
-## 🧠 Theoretical Skills
+## 📚 Academic Knowledge & Applied Technical Skills
 
-- 📚 Data Structures & Algorithms (in C++)
-- 📊 Object-Oriented Programming (OOP)
-- 🧵 Operating Systems (OS1, OS2)
-- 💾 File Management Systems
-- 🧮 Logical & Digital Design
-- 🖥️ Computer Architecture
-- 🌐 Intro to Networks
-- 💡 Software Engineering 1 & 2
-- 🧠 Problem Solving & Competitive Programming
+📊 Data Structures & Algorithms (C++)
+
+🔁 Object-Oriented Programming (C++)
+
+💾 Information Storage & Management (C++)
+
+🧵 Operating Systems – Core Concepts & Linux VM Lab
+
+🌐 Computer Networks – CCNA 1 
+
+🗄️ Information Systems & Databases – SQL (Oracle 11g)
+
+🧮 Logic Design & Computer Architecture
+
+📐 Software Engineering (SW1, SW2)
+
+📈 Mathematics & Statistics – Discrete Mathematics, Calculus, Linear Algebra, Differential Equations, Statistical Analysis
+
+⚛️ Physics & Electronics 
+
+---
+
+🌟 **Soft Skills**
+
+Combining technical proficiency with strong interpersonal and adaptive skills to thrive in collaborative and fast-paced environments.
+
+- 🤝 Effective Communication & Team Collaboration  
+- 🚀 Fast & Curious Learner, Always Exploring New Technologies  
+- 🌱 Growth-Oriented with a Passion for Continuous Development  
+- 🧩 Problem-Solving Mindset with a Real-World Focus
 
 ---
 
@@ -119,3 +146,5 @@
 ---
 
 <p align="center">🔥 Let’s build something amazing!</p>
+
+
