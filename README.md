@@ -9,13 +9,6 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAbdelkader&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAbdelkader?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -25,24 +18,20 @@
 
 ```javascript
 const muhammad = {
-    location: "Cairo, Egypt 🇪🇬",
-    education: "Final Year @ BFCAI",
-    role: "Full Stack Developer",
-    specialization: "MEAN Stack",
-    expertise: [
-        "Backend Development",
-        "RESTful APIs",
-        "Database Design"
-    ],
-    currentFocus: [
-        "MongoDB Performance Tuning",
-        "Node.js Advanced Patterns",
-        "Scalable Architecture"
-    ],
-    status: "🚀 Open for Opportunities",
-    recentWin: "✅ NTI MEAN Stack (210h)",
-    languages: ["Arabic", "English"],
-    motto: "Coffee ☕ → Code 💻"
+  location: 'Cairo, Egypt 🇪🇬',
+  education: 'Final Year @ BFCAI',
+  role: 'Full Stack Developer',
+  specialization: 'MEAN Stack',
+  expertise: ['Backend Development', 'RESTful APIs', 'Database Design'],
+  currentFocus: [
+    'MongoDB Performance Tuning',
+    'Node.js Advanced Patterns',
+    'Scalable Architecture',
+  ],
+  status: '🚀 Open for Opportunities',
+  recentWin: '✅ NTI MEAN Stack (210h)',
+  languages: ['Arabic', 'English'],
+  motto: 'Coffee ☕ → Code 💻',
 };
 ```
 
@@ -194,14 +183,14 @@ const muhammad = {
 
 <div align="center">
 
-| Skill | Description |
-|-------|-------------|
-| 💬 **Communication** | Clear articulation of technical concepts to diverse audiences |
-| 🤝 **Collaboration** | Effective teamwork in agile development environments |
-| 🚀 **Fast Learner** | Rapid adoption of new technologies and frameworks |
-| 🧩 **Problem Solving** | Analytical approach to complex challenges |
-| 🌱 **Adaptability** | Thriving in fast-paced, evolving tech landscapes |
-| 📈 **Growth Mindset** | Continuous improvement and skill enhancement |
+| Skill                  | Description                                                   |
+| ---------------------- | ------------------------------------------------------------- |
+| 💬 **Communication**   | Clear articulation of technical concepts to diverse audiences |
+| 🤝 **Collaboration**   | Effective teamwork in agile development environments          |
+| 🚀 **Fast Learner**    | Rapid adoption of new technologies and frameworks             |
+| 🧩 **Problem Solving** | Analytical approach to complex challenges                     |
+| 🌱 **Adaptability**    | Thriving in fast-paced, evolving tech landscapes              |
+| 📈 **Growth Mindset**  | Continuous improvement and skill enhancement                  |
 
 </div>
 
