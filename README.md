@@ -18,7 +18,7 @@
 
 ```javascript
 const muhammad = {
-  location: 'Cairo, Egypt 🇪🇬',
+  location: 'Qalyubia, Egypt 🇪🇬',
   education: 'Final Year @ BFCAI',
   role: 'Full Stack Developer',
   specialization: 'MEAN Stack',
