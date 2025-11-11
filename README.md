@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> 🌐 Visit My Portfolio
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Visit My Portfolio
 
 <div align="center">
 
@@ -99,10 +99,10 @@ const muhammad = {
   <img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" width="52" height="52" alt="freelancer logo" />
 </a>
 <a href="https://mostaql.com/u/MuhmdAbdelkader" target="_blank">
-  <img src="https://img.shields.io/badge/-Mostaql-1DB954?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Mostaql-2CABE2?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://khamsat.com/user/muhammadabdelkader" target="_blank">
-  <img src="https://img.shields.io/badge/-Khamsat-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Khamsat-FAB519?style=for-the-badge&logoColor=white"/>
 </a>
 </p>
 
